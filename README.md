@@ -1,3 +1,15 @@
+# docker,react,golang,mysqlでの環境構築(DoReGoMy？勝手に考えました笑)
+## 今回ディレクトリ構成
+```
+docker/
+    |- golang/
+    |- mysql/
+    |- react/
+go-app/
+react-app/
+docker-compose.yml
+```
+
 ## docker-compose.ymlを書く.
 以下が今回作成したファイルです.
 ```yml
